@@ -1,0 +1,5 @@
+public class MyData{
+  private String username;
+  private String password;
+  private int age;
+}
